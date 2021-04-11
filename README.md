@@ -1,4 +1,4 @@
-# alfaPegasis
+
 <h1 align="center">Hi 👋, I'm Anmol Bajpai</h1>
 <h3 align="center">A Data Science Enthusiast rummaging into Data for insights. Oh I got one..Nahh..Key Error. Nevermind.</h3>
 
