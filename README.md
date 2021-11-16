@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Linear Regression: The Easy Way!](https://anmolbajpai2001.medium.com/linear-regression-the-easy-way-135c1c3653f4?source=rss-abb5df7ad523------2)
+- [Build a Palm Detection and Hand Tracking Model with Python. &lpar;Part 2&rpar;](https://anmolbajpai2001.medium.com/build-a-palm-detection-and-hand-tracking-model-with-python-part-2-1bbe10a81451?source=rss-abb5df7ad523------2)
+- [Palm Detection and Hand Tracking Model with Python. &lpar;Part 1&rpar;](https://anmolbajpai2001.medium.com/palm-detection-and-hand-tracking-model-with-python-part-1-5e96ee15919f?source=rss-abb5df7ad523------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
