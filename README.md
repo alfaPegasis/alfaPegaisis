@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anmol Bajpai</h1>
 <h3 align="center">A Data Science Enthusiast rummaging into Data for insights. Oh I got one..Nahh..Key Error. Nevermind.</h3>
-<!-- <a align = "center" href ="https://alfapegasis.github.io/Anmol-Portfolio/" target = "_blank" >Anmol Bajpai Portfolio</a> -->
+<!-- <a align = "center" href ="https://alfapegasis.github.io/anmol-bajpai/" target = "_blank" >Anmol Bajpai</a> -->
 
 
 <br>
@@ -26,7 +26,7 @@
 <a href="https://medium.com/@anmolbajpai2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anmolbajpai2001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucbeqs1lwx6cq0uxu7x5jlzg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucbeqs1lwx6cq0uxu7x5jlzg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anmolbajpai2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anmolbajpai2001" height="30" width="40" /></a>
- <a href="https://alfapegasis.github.io/Anmol-Portfolio/" target="_blank"><img align="left" alt="aakarsh.me" width="32px" src="https://img.icons8.com/fluent/96/000000/domain.png" /></a>
+ <a href="https://alfapegasis.github.io/anmol-bajpai/" target="_blank"><img align="left" alt="aakarsh.me" width="32px" src="https://img.icons8.com/fluent/96/000000/domain.png" /></a>
 </p><br>
 <br>
 
